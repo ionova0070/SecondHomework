@@ -1,0 +1,8 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\RentOfCarsLibrary\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\RentOfCarsLibrary\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\RentOfCarsLibrary\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\RentOfCarsLibrary\ConsoleApplication2\bin\Debug\RentOfCarsLibrary.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\RentOfCarsLibrary\ConsoleApplication2\bin\Debug\RentOfCarsLibrary.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\RentOfCarsLibrary\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\RentOfCarsLibrary\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\RentOfCarsLibrary\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb

@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\RentOfCarsLibrary\RentOfCarsLibrary\bin\Debug\RentOfCarsLibrary.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\RentOfCarsLibrary\RentOfCarsLibrary\bin\Debug\RentOfCarsLibrary.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\RentOfCarsLibrary\RentOfCarsLibrary\obj\Debug\RentOfCarsLibrary.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\RentOfCarsLibrary\RentOfCarsLibrary\obj\Debug\RentOfCarsLibrary.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\RentOfCarsLibrary\RentOfCarsLibrary\obj\Debug\RentOfCarsLibrary.pdb
