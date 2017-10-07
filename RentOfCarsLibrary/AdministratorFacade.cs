@@ -9,9 +9,9 @@ namespace RentOfCarsLibrary
     public class AdministratorFacade
     {
         Administrator _administrator;
-        public AdministratorFacade(string wayToRecordsAboutCars, string wayToRecordsAboutRents)
+        public AdministratorFacade()
         {
-            _administrator = new Administrator(wayToRecordsAboutCars, wayToRecordsAboutRents);
+            _administrator = new Administrator();
         }
 
         public string[,] ShowAllCars()
@@ -23,16 +23,6 @@ namespace RentOfCarsLibrary
         public void AddNewCar(string model, string colour, int identificationNumber)
         {
             _administrator.AddNewCar(model, colour, identificationNumber);
-        }
-
-        public void SaveRecords()
-        {
-            _administrator.SaveRecords();
-        }
-
-        public void LoadRecords()
-        {
-            _administrator.LoadRecords();
         }
     }
 }

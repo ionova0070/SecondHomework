@@ -10,14 +10,10 @@ namespace RentOfCarsLibrary
 {
     public class Administrator
     {
-        public Administrator(string wayToFileWithCars, string wayToFileWithRecords)
+        public Administrator()
         {
             _cars = new List<Car>();
             _records = new List<Rent>();
-            _fileWithRecordAboutCars = File.CreateText(_wayToFileWithCars);
-            _fileWithRecordAboutRents = File.CreateText(_wayToFileWithRecords);
-            _wayToFileWithCars = wayToFileWithCars;
-            _wayToFileWithRecords = wayToFileWithRecords;
         }
 
         public void AddNewCar(string model, string colour, int identificationNumber)
@@ -92,7 +88,9 @@ namespace RentOfCarsLibrary
                 }
             }
         }
-
+        
+        //Этот методы довести до ума не успела
+        /*
         public void SaveRecords()
         {
             JavaScriptSerializer serializer = new JavaScriptSerializer();
@@ -106,7 +104,7 @@ namespace RentOfCarsLibrary
                 _fileWithRecordAboutRents.WriteLine(serializer.Serialize(rent));
             }
         } 
-
+         * 
         public void LoadRecords()
         {
             JavaScriptSerializer serializer = new JavaScriptSerializer();
@@ -133,7 +131,7 @@ namespace RentOfCarsLibrary
                 RentCar(rent.ClientName, rent.IdentificationNumberOfCar, rent.DateOfBeginningOfRent, rent.DateOfReturningCar);
             }
         }
-
+        */
 
         List<Car> _cars;
         List<Rent> _records;
